@@ -63,7 +63,12 @@
 	</repositories>
 
 
-
+	<distributionManagement>
+		<repository>
+			<id>repo</id>
+			<url>file:/Users/dvesin/Development/Projects/Execom/vesin-repo/repo</url>
+		</repository>
+	</distributionManagement>
 
 	<build>
 		<plugins>
