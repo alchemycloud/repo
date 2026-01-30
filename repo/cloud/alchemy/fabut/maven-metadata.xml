@@ -3,7 +3,7 @@
   <groupId>cloud.alchemy</groupId>
   <artifactId>fabut</artifactId>
   <versioning>
-    <release>4.3.3-RELEASE</release>
+    <release>5.0.0-RELEASE</release>
     <versions>
       <version>3.5.0-RELEASE</version>
       <version>3.5.1-RELEASE</version>
@@ -32,7 +32,8 @@
       <version>4.3.1-RELEASE</version>
       <version>4.3.2-RELEASE</version>
       <version>4.3.3-RELEASE</version>
+      <version>5.0.0-RELEASE</version>
     </versions>
-    <lastUpdated>20260128132702</lastUpdated>
+    <lastUpdated>20260130133330</lastUpdated>
   </versioning>
 </metadata>
